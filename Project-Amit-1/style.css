@@ -42,10 +42,10 @@ body {
     background-color: #0056b3;
 }
 
-#nexButton {
+#nextButton {
     padding: 10px 20px;
-    background: color #cd9719;
-    color: white;
+    background-color:  #0a2679;
+    color: rgb(245, 245, 245);
     border: none;
     border-radius: 5px;
     cursor: pointer;
