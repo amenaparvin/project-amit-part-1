@@ -37,6 +37,7 @@ function loadQuestion (){
 
     let choices = document.querySelectorAll(".choice");
     choices.forEach((choice, index)=>{
+        choice.textContent= currentQuestionData.choices[index]
         
     })
 }
